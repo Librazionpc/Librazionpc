@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Nwajei Zion
+# 👋 Hi, I'm Zion Osagie
 
-**AI Systems & Backend Engineer**
+**AI Systems, Backend & IoT Engineer**
 
-I build **scalable backend systems, AI-powered applications, and agent-based automation platforms**.
+I build **scalable backend systems, AI-powered applications, and intelligent IoT-driven automation platforms**.
 
 ---
 
@@ -11,7 +11,9 @@ I build **scalable backend systems, AI-powered applications, and agent-based aut
 * Backend engineering (FastAPI, Flask, Node.js)
 * AI systems (OpenAI, Claude, Gemini, OpenRouter)
 * Agentic AI workflows (multi-agent systems, tool-using agents)
-* Cloud-native system design (AWS, Docker, Kubernetes)
+*  IoT systems (ESP8266/ESP32, sensor integration, real-time monitoring, **health-focused monitoring and alert systems**)
+
+-   Cloud-native system design (AWS, Docker, Kubernetes)
 
 ---
 
@@ -20,6 +22,7 @@ I build **scalable backend systems, AI-powered applications, and agent-based aut
 * AI infrastructure & LLM orchestration
 * Scalable backend systems
 * Agent-based automation
+* IoT + AI integration systems
 * Distributed systems design
 
 ---
@@ -28,6 +31,7 @@ I build **scalable backend systems, AI-powered applications, and agent-based aut
 
 **Backend:** FastAPI, Flask, Node.js
 **AI:** OpenAI, Claude, Gemini, OpenRouter
+**IoT:** ESP8266, ESP32, Sensor Systems, Real-time Data Processing
 **Databases:** PostgreSQL, MongoDB, Redis
 **DevOps:** Docker, AWS, Kubernetes, CI/CD
 
@@ -41,7 +45,8 @@ They include:
 * Agentic AI systems
 * Scalable backend APIs
 * AI-powered applications
-* Real-world automation systems
+* IoT + AI integration systems
+* Real-world automation platforms
 
 ---
 
