@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zion Osagie
+# 👋 Hi, I'm Nwajei Zion 
 
 ### Backend Software Engineer | AI Systems Engineer | IoT Developer
 
