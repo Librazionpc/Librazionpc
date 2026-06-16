@@ -1,72 +1,128 @@
 # 👋 Hi, I'm Zion Osagie
 
-**AI Systems, Backend & IoT Engineer**
+### Backend Software Engineer | AI Systems Engineer | IoT Developer
 
-I build **scalable backend systems, AI-powered applications, and intelligent IoT-driven automation platforms**.
+I design and build **scalable backend systems, AI-powered applications, fintech solutions, and intelligent IoT platforms**.
 
----
-
-## 🚀 What I Do
-
-* Backend engineering (FastAPI, Flask, Node.js)
-* AI systems (OpenAI, Claude, Gemini, OpenRouter)
-* Agentic AI workflows (multi-agent systems, tool-using agents)
-*  IoT systems (ESP8266/ESP32, sensor integration, real-time monitoring, **health-focused monitoring and alert systems**)
-
--   Cloud-native system design (AWS, Docker, Kubernetes)
+My experience spans backend architecture, service aggregation platforms, workflow automation, AI-powered customer support systems, and cloud-native deployments. I enjoy solving complex engineering challenges and building reliable systems that scale.
 
 ---
 
-## 🧠 Focus Areas
+## 🚀 What I Build
 
-* AI infrastructure & LLM orchestration
-* Scalable backend systems
-* Agent-based automation
-* IoT + AI integration systems
-* Distributed systems design
+### Backend Engineering
+
+* RESTful API Development
+* FastAPI & Flask Applications
+* Microservices Architecture
+* Database Design & Optimization
+* Authentication & Authorization
+* High-Performance Backend Systems
+
+### AI Systems & Automation
+
+* LLM Integration (OpenAI, Claude, Gemini, OpenRouter)
+* AI-Powered Customer Support Platforms
+* Multi-Agent Systems & Workflow Automation
+* Tool-Using AI Agents
+* Intelligent Process Automation
+
+### FinTech & Business Platforms
+
+* Financial Service Aggregation Systems
+* Payment & Transaction Workflows
+* Third-Party Service Integrations
+* Data Processing & Business Automation
+* Scalable Enterprise Solutions
+
+### IoT & Embedded Systems
+
+* ESP32 & ESP8266 Development
+* Sensor Integration
+* Real-Time Monitoring Systems
+* Health-Focused Monitoring & Alert Systems
+* IoT + AI Integration
+
+---
+
+## 🧠 Areas of Interest
+
+* Backend Engineering
+* Distributed Systems
+* Cloud Infrastructure
+* AI Infrastructure & LLM Orchestration
+* Financial Technology
+* System Design & Scalability
+* Intelligent Automation
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend:** FastAPI, Flask, Node.js
-**AI:** OpenAI, Claude, Gemini, OpenRouter
-**IoT:** ESP8266, ESP32, Sensor Systems, Real-time Data Processing
-**Databases:** PostgreSQL, MongoDB, Redis
-**DevOps:** Docker, AWS, Kubernetes, CI/CD
+### Languages
+
+Python • JavaScript (Node.js) • Java
+
+### Backend
+
+FastAPI • Flask • REST APIs • Microservices
+
+### AI
+
+OpenAI • Claude • Gemini • OpenRouter • OpenClaw
+
+### Databases
+
+PostgreSQL • MySQL • MSSQL • MongoDB • Redis
+
+### Cloud & DevOps
+
+AWS • Docker • Kubernetes • Terraform • GitHub Actions • Jenkins
+
+### Tools
+
+Git • Nginx • VS Code
 
 ---
 
-## 📌 Featured Work
+## 📌 Featured Projects
 
-Check my pinned repositories below 👇
-They include:
+### Financial Services Aggregation Platform
 
-* Agentic AI systems
-* Scalable backend APIs
-* AI-powered applications
-* IoT + AI integration systems
-* Real-world automation platforms
+Backend platform integrating multiple service providers into a unified and scalable system.
+
+### Robin Solution
+
+Backend services supporting intelligent decision-making workflows across multiple providers.
+
+### AI-Powered Customer Support Platform
+
+LLM-powered support automation platform built with FastAPI and multi-model AI integrations.
+
+### AI-Powered E-Commerce Backend
+
+Scalable backend system featuring recommendation workflows, Redis caching, and cloud deployment.
+
+### IoT & Health Monitoring Systems
+
+Smart monitoring and alert platforms using ESP32/ESP8266 integrated with cloud services.
 
 ---
 
-## 📫 Contact
+## 🌱 Currently Exploring
 
-Email: [znwajei@gmail.com](mailto:znwajei@gmail.com)
-GitHub: https://github.com/Librazionpc
+* Advanced Agentic AI Architectures
+* AI Infrastructure Engineering
+* Distributed Systems
+* Cloud-Native Applications
+* FinTech Platform Design
 
+---
 
-<!--
-**Librazionpc/Librazionpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect With Me
 
-Here are some ideas to get you started:
+📧 Email: [znwajei@gmail.com](mailto:znwajei@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐙 GitHub: https://github.com/Librazionpc
+
+Always interested in collaborating on backend engineering, AI systems, fintech solutions, and innovative technology projects.
