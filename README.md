@@ -1,46 +1,53 @@
-# 👋 Hi, I'm Nwajei Zion 
+# 👋 Hi, I'm Nwajei Zion Osagie
 
-### Backend Software Engineer | AI Systems Engineer | IoT Developer
+### Backend Software Engineer | AI Systems Engineer | FinTech & IoT Developer
 
-I design and build **scalable backend systems, AI-powered applications, fintech solutions, and intelligent IoT platforms**.
+I build **scalable backend systems, AI-powered applications, fintech platforms, and intelligent IoT solutions** that solve real-world problems.
 
-My experience spans backend architecture, service aggregation platforms, workflow automation, AI-powered customer support systems, and cloud-native deployments. I enjoy solving complex engineering challenges and building reliable systems that scale.
+My experience spans **backend architecture, distributed systems, financial service aggregation, AI-powered automation, cloud-native infrastructure, and embedded systems**. I enjoy designing secure, reliable, and maintainable software that powers modern applications at scale.
 
 ---
 
 ## 🚀 What I Build
 
-### Backend Engineering
+### ⚙️ Backend Engineering
 
 * RESTful API Development
 * FastAPI & Flask Applications
 * Microservices Architecture
-* Database Design & Optimization
-* Authentication & Authorization
+* Database Design & Optimisation
+* Authentication & Authorisation
 * High-Performance Backend Systems
+* Distributed System Design
 
-### AI Systems & Automation
+### 🤖 AI Systems & Agentic Automation
 
 * LLM Integration (OpenAI, Claude, Gemini, OpenRouter)
-* AI-Powered Customer Support Platforms
+* Agentic AI Applications
 * Multi-Agent Systems & Workflow Automation
+* AI-Powered Customer Support Platforms
+* AI Search & Retrieval Systems (RAG)
 * Tool-Using AI Agents
 * Intelligent Process Automation
 
-### FinTech & Business Platforms
+### 💳 FinTech Solutions
 
-* Financial Service Aggregation Systems
-* Payment & Transaction Workflows
+* Financial Service Aggregation Platforms
+* Intelligent Provider Routing Systems
+* Payment API Integration
+* Transaction Processing
 * Third-Party Service Integrations
-* Data Processing & Business Automation
-* Scalable Enterprise Solutions
+* Secure Financial Backend Systems
+* Enterprise Business Automation
 
-### IoT & Embedded Systems
+### 🌐 IoT & Embedded Systems
 
-* ESP32 & ESP8266 Development
+* ESP32, ESP8266 & Raspberry Pi
+* Embedded Systems Programming (C/C++)
 * Sensor Integration
-* Real-Time Monitoring Systems
-* Health-Focused Monitoring & Alert Systems
+* Fingerprint Authentication Systems
+* Health Monitoring & Alert Systems
+* Real-Time Monitoring Platforms
 * IoT + AI Integration
 
 ---
@@ -48,64 +55,78 @@ My experience spans backend architecture, service aggregation platforms, workflo
 ## 🧠 Areas of Interest
 
 * Backend Engineering
+* AI Infrastructure
+* Agentic AI Systems
 * Distributed Systems
 * Cloud Infrastructure
-* AI Infrastructure & LLM Orchestration
-* Financial Technology
-* System Design & Scalability
+* FinTech
 * Intelligent Automation
+* IoT & Health Technology
+* Software Architecture
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
-Python • JavaScript (Node.js) • Java
+Python • JavaScript (Node.js) • Java • C • C++ • C#
 
-### Backend
+### 🚀 Backend
 
-FastAPI • Flask • REST APIs • Microservices
+FastAPI • Flask • REST APIs • Microservices • PostgreSQL • Redis
 
-### AI
+### 🤖 AI
 
-OpenAI • Claude • Gemini • OpenRouter • OpenClaw
+OpenAI • Claude • Gemini • OpenRouter • OpenClaw • RAG • Prompt Engineering
 
-### Databases
+### 🗄 Databases
 
-PostgreSQL • MySQL • MSSQL • MongoDB • Redis
+PostgreSQL • MySQL • MSSQL • MongoDB • Redis • Supabase
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-AWS • Docker • Kubernetes • Terraform • GitHub Actions • Jenkins
+AWS • Docker • Kubernetes • Terraform • GitHub Actions • Jenkins • CI/CD
 
-### Tools
+### 🔌 Embedded & IoT
+
+ESP32 • ESP8266 • Raspberry Pi • Embedded C/C++ • ESP-NOW
+
+### 🛠 Tools
 
 Git • Nginx • VS Code
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Engineering Projects
 
-### Financial Services Aggregation Platform
+### 💳 Financial Services Aggregation Platform
 
-Backend platform integrating multiple service providers into a unified and scalable system.
+A scalable backend platform that aggregates multiple third-party financial providers into a unified, reliable service.
 
-### Robin Solution
+### 🔀 Robin Solution
 
-Backend services supporting intelligent decision-making workflows across multiple providers.
+An intelligent backend routing engine that automatically selects the best-performing third-party provider based on availability, performance, and business rules.
 
-### AI-Powered Customer Support Platform
+### 🤖 AI-Powered Customer Support Platform
 
-LLM-powered support automation platform built with FastAPI and multi-model AI integrations.
+A multi-model AI customer support platform powered by OpenAI, Claude, and Gemini, featuring workflow automation and intelligent request orchestration.
 
-### AI-Powered E-Commerce Backend
+### 🔍 Agentic AI Search Platform
 
-Scalable backend system featuring recommendation workflows, Redis caching, and cloud deployment.
+Converted a traditional natural language search engine into an agentic AI-powered search platform with contextual reasoning, tool execution, and Retrieval-Augmented Generation (RAG).
 
-### IoT & Health Monitoring Systems
+### 🛒 AI-Powered E-Commerce Platform
 
-Smart monitoring and alert platforms using ESP32/ESP8266 integrated with cloud services.
+Scalable FastAPI backend with AI-powered recommendations, Redis caching, secure payment-ready workflows, and AWS cloud deployment.
+
+### 👆 Fingerprint Attendance Management System
+
+An embedded biometric attendance solution built with ESP8266, Embedded C/C++, fingerprint sensors, and Supabase for real-time attendance management.
+
+### ❤️ IoT & Health Monitoring Systems
+
+Smart IoT platforms using ESP32, ESP8266, and Raspberry Pi for real-time monitoring, intelligent alerts, and cloud-based automation.
 
 ---
 
@@ -113,16 +134,20 @@ Smart monitoring and alert platforms using ESP32/ESP8266 integrated with cloud s
 
 * Advanced Agentic AI Architectures
 * AI Infrastructure Engineering
+* Model Context Protocol (MCP)
 * Distributed Systems
+* Event-Driven Architectures
 * Cloud-Native Applications
-* FinTech Platform Design
+* FinTech Platform Engineering
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-📧 Email: [znwajei@gmail.com](mailto:znwajei@gmail.com)
+📧 **Email:** [znwajei@gmail.com](mailto:znwajei@gmail.com)
 
-🐙 GitHub: https://github.com/Librazionpc
+🐙 **GitHub:** https://github.com/Librazionpc
 
-Always interested in collaborating on backend engineering, AI systems, fintech solutions, and innovative technology projects.
+I'm always interested in collaborating on **backend engineering, AI systems, fintech platforms, IoT solutions, and open-source projects**.
+
+> **Note:** Many of the commercial systems I've contributed to are maintained in private repositories due to client and company confidentiality. This profile showcases selected public work and technical projects that reflect my engineering experience.
